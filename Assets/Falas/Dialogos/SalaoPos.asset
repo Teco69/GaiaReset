@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: SalaoPos
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - Hawise?
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Finalmente. Voc\xEA conseguiu?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Aqui est\xE1."
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - O-obrigado meu filho.
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Hawise, ser\xE1 que eu posso fazer algumas perguntas?"
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Prossiga.
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "O que \xE9 que voc\xEA sabe sobre a m\xE1quina que Josep estava construindo
+      antes de morrer?"
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "A um tempo atr\xE1s ele veio at\xE9 mim querendo que o ajudasse com uma ideia
+      que, segundo ele, mudaria tudo."
+    - "Uma m\xE1quina purificadora na qual iria garantir que a infec\xE7\xE3o n\xE3o
+      se alastre para dentro da reserva, isso permitiria que pud\xE9ssemos adaptar
+      o ambiente a nosso favor."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "E como voc\xEA sabia onde estava essa flor afinal?"
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "Ela era uma parte essencial da m\xE1quina por\xE9m tamb\xE9m tem um valor
+      simb\xF3lico para mim, sua semente foi o presente de uma pessoa muito especial
+      e eu guardei comigo desde ent\xE3o\u2026"
+    - "Eu estava disposto a sacrific\xE1-la pelo projeto de Josep, mas, como voc\xEA
+      pode ver, n\xE3o deu certo."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Se existir a chance dessa m\xE1quina funcionar, eu vou at\xE9 o fim para a
+      reconstruir."
+  falasSegundaOpc: []

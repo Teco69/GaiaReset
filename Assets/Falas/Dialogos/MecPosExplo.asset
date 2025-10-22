@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: MecPosExplo
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - " J\xE1 est\xE1 de volta?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Desculpe a demora, aqui est\xE1."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - Muito obrigada, Vlad!
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - " N\xE3o foi nada\u2026 Hm\u2026 E, Agnes, ser\xE1 que voc\xEA saberia me dizer
+      se foi voc\xEA que construiu essa m\xE1quina aqui?\r\n*imagem da polaroid*\r\n"
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "N\xE3o, nunca havia visto algo assim antes\u2026 "
+    - "N\xE3o est\xE1 muito bem feito, tecnicamente, mas d\xE1 pra dizer que algu\xE9m
+      passou um bom tempo projetando seja l\xE1 o que isso for"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - Tem ideia do que possa ser?
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Quem fez isso com certeza sabia de bot\xE2nica, mas talvez n\xE3o tanto de
+      engenharia mec\xE2nica, viu."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Bom, isso parece um sistema b\xE1sico de estufa pra mim, por\xE9m tem dutos
+      e conex\xF5es demais para ser apenas isso. "
+    - "Quem fez isso com certeza sabia de bot\xE2nica, mas talvez n\xE3o tanto de
+      engenharia mec\xE2nica, viu."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "*S\xF3 tem uma pessoa na reserva que entende de bot\xE2nica\u2026 Hawise*"
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "E voc\xEA vai me contar de onde saiu essa foto ou o que?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Na verdade, talvez seja melhor eu n\xE3o te contar agora."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Agora eu estou curiosa, voc\xEA n\xE3o pode dar nenhuma pistinha?\r\n"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Voc\xEA nunca muda, n\xE3o \xE9 mesmo\u2026?\r\n"
+  falasSegundaOpc: []

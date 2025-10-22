@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: DialogoPosFase2
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - ' Estou de volta. Stevan, as coisas correram bem enquanto eu estava fora? '
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - " Ah. Oi, finalmente. Nada fora do comum, consegui segurar as pontas. E a pe\xE7a
+      quebrada, conseguiu encontrar? "
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "A pe\xE7a n\xE3o est\xE1 muito deteriorada. "
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Com certeza a Agnes consegue dar um jeito nisso. Mandarei um recado pra ela
+      e voc\xEA pode ir na oficina mec\xE2nica pela manh\xE3."
+  falasSegundaOpc: []

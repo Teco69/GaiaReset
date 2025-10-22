@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: DialogoFinal
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - Eai gente, o que houve?
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "Eu convoquei essa reuni\xE3o para anunciar que a m\xE1quina est\xE1 pronta,
+      a inven\xE7\xE3o de Josep \xE9 um sucesso."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "E por que voc\xEA n\xE3o parece feliz com isso Vlad?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Ser\xE1 que n\xF3s dever\xEDamos ativar a m\xE1quina?"
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Mas que pergunta \xE9 essa?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Eu sei o que parece\u2026 Mas e depois? Depois de nos livrarmos da radia\xE7\xE3o
+      dentro da reserva, o que acontece?"
+    - "Estaremos presos aqui dentro, criaremos gera\xE7\xF5es de pessoas presas com
+      recursos cada vez mais escassos."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Pare com isso, Vlad, n\xF3s vamos dar um jeito nisso, n\xF3s sempre damos."
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Eu to com o Vlad nessa, j\xE1 aguentamos muito disso. N\xE3o vou ser respons\xE1vel
+      pelo sofrimento de mais pessoas."
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Ent\xE3o vai ser assim?! Voc\xEAs pretendem apenas desistir da humanidade,
+      do nosso planeta sem mais nem menos?"
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "J\xE1 desistiram do nosso planeta a muito tempo garoto, n\xE3o restou nada
+      para desfrutar, aqui foi onde a ambi\xE7\xE3o e competi\xE7\xE3o nos levou."
+    - "A gan\xE2ncia deixou as pessoas cegas, fez com que a elite passasse por cima
+      de qualquer um para obter lucro."
+    - "Eles exploraram cada recurso natural, cada pessoa que vendeu sua for\xE7a
+      de trabalho, e esse foi o resultado. Nada impede que tudo se repita."
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "N\xF3s podemos impedir! Relembrar a hist\xF3ria para as pr\xF3ximas gera\xE7\xF5es."
+    - "Criar um novo sistema humanit\xE1rio e igualit\xE1rio, n\xF3s podemos mudar
+      nossas hist\xF3rias agora."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Mas a decis\xE3o est\xE1 nas suas m\xE3os Vlad, como vamos seguir?"
+  falasSegundaOpc: []

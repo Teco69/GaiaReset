@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: SalaoInicio
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Ei, moleque, o que est\xE1 fazendo aqui?"
+    - Desembuche
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Serei breve...
+    - "Quero saber qual o seu envolvimento com essa m\xE1quina"
+    - (Foto da polaroid)
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - ....
+    - "Me d\xEA um tempo, vai."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Eu n\xE3o vejo outra pessoa capaz de manter todas essas plantas vivas na situa\xE7\xE3o
+      atual al\xE9m de voc\xEA."
+    - "Olha, eu n\xE3o estou tentando deixar as coisas mais dif\xEDceis aqui. Eu
+      s\xF3 estou tentando entender\u2026"
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Hum
+    - "Eu n\xE3o trabalho de gra\xE7a. Preciso de um favor, mas n\xE3o quero perguntas."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Sou todo ouvidos.
+  - personagem: {fileID: 11400000, guid: 8aa2f24597d7ba44f9b415c23832bdba, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Eu\u2026 Preciso que busque uma planta. Uma Orqu\xEDdea, que depende de fungos
+      para crescer...."
+    - "Antes de morrer, o Josep plantou uma em uma \xE1rea infectada com fungos longe
+      da reserva."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Certo.
+  falasSegundaOpc: []

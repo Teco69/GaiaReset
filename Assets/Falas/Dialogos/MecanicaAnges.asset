@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: MecanicaAnges
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Vlad!! Estava te esperando.
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "\xC9 sempre um prazer rev\xEA-la, Agnes.\r\n"
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Voc\xEA n\xE3o muda mesmo, n\xE3o \xE9?"
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Bom\u2026"
+    - " Isso vai ser molezinha. Em alguns minutos, o traje j\xE1 vai estar novinho
+      em folha!\r\n"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Muito obrigado, Agnes\u2026"
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Err\u2026 De nada\u2026 Eu sei que voc\xEA anda ocupado, mas eu precisava
+      te pedir algo.\r\n"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Sou todo ouvidos.
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Bom\u2026 eu n\xE3o sei bem como, mas eu acabei perdendo minha chave inglesa."
+    - "Eu j\xE1 procurei por toda a reserva e pensando que talvez algu\xE9m possa
+      ter pegado a chave e esquecido de me avisar... "
+    - "Procurei em volta da reserva na \xE1rea menos afetada pela radia\xE7\xE3o."
+  - personagem: {fileID: 11400000, guid: 334555160f3e54345ab0df9fcf538714, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Ser\xE1 que com o traje pronto voc\xEA n\xE3o poderia ir mais longe na \xE1rea
+      infectada e procurar a chave para mim?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Vou procurar sim, em breve retornarei com mais informa\xE7\xF5es."
+  falasSegundaOpc: []
